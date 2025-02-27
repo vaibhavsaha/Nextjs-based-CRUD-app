@@ -1,5 +1,6 @@
 # Next.js CRUD Application
 
+https://mellow-alfajores-d14ba2.netlify.app/
 A modern CRUD (Create, Read, Update, Delete) application built with Next.js, React Query, and shadcn/ui. This application demonstrates how to build a production-ready web application with proper state management, form validation, and error handling.
 
 ## Features
